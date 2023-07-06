@@ -1,5 +1,5 @@
 # Bot-Discord
-![Static Badge](https://img.shields.io/badge/Jumpstarter-blue?label=License&link=link%5Bhttps%3A%2F%2Fgoggle.com%5D)
+![Static Badge](https://img.shields.io/badge/Jumpstarter-blue?label=License&link=url%3Dhttps%3A%2F%2Fgoggle.com)
 
 This project is a Discord Bot specifically for use with the Python Discord server. It provides several utilities and other tools to help keep your server up and running.
 
