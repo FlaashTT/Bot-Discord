@@ -9,7 +9,7 @@ chat = GenericAssistant()
 client = discord.Client()
 load_dotenv()
 
-TOKEN = os.getenv('MTEyNjUxNzAwNzA5ODA2NTAwOA.G-qFZs.BugMyWCcZRY9HZASFYRYWYpjyJ_SVJPQHjm9Zs')
+TOKEN = os.getenv('')
 @client.event
 async def on_message(message):
     if message.author == client.user:
